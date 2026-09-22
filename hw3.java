@@ -71,11 +71,7 @@ public class Main
 	    }
 	}
 }
-
-
-
-/*
-18 is divisible by 2,3 and 5
+/* 18 is divisible by 2,3 and 5
 
 20 is not divisible by 3 and 5
 20 is divisible by 2 or 3
@@ -104,5 +100,4 @@ public class Main
 45 is divisible by 3
 45 is not divisible by 5
 
-90 is divisible by 2,3 and 5
-*/
+90 is divisible by 2,3 and 5 */
